@@ -13,7 +13,7 @@ Sections 📚<br>
 ✔️ Contact Me<br>
 ✔️ Footer<br>
 
-To view a live example, click here https://arzaid-aka-rz.github.io/PortFolioWebsite/
+To view a live example, click here : https://arzaid-aka-rz.github.io/PortFolioWebsite/
 
 Tools Used 🛠️<br>
 Font Awesome - A font and icon toolkit based on CSS.
@@ -21,8 +21,10 @@ Font Awesome - A font and icon toolkit based on CSS.
 Step 1<br>
 🍴 Fork this repo!<br>
 👯 Clone this repo to your local machine.<br>
+<br>
 Step 2<br>
 Build your code 🔨🔨🔨<br>
+<br>
 Step 3<br>
 🔃 Create a new pull request.<br>
 
